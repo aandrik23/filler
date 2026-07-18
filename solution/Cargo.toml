@@ -1,0 +1,9 @@
+[package]
+name = "solution"
+version = "0.1.0"
+edition = "2021"
+description = "Filler game robot using greedy territory expansion with center-bias tie-breaking"
+
+[[bin]]
+name = "solution"
+path = "src/main.rs"
